@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muhammad Hasnain
 
-<!--
-**MuhammadHasnain3027/MuhammadHasnain3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Full Stack Developer from Pakistan 🇵🇰 <br/>
+  🚀 Passionate about building scalable & user-friendly web apps
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 🔭 Currently working on **modern web projects**
+* 🌱 Continuously learning **new technologies & frameworks**
+* ⚡ Love solving real-world problems with code
+* 🎯 Goal: Become a **top-tier software engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+**💡 Frontend**
+HTML • CSS • JavaScript • Tailwind
+
+**⚙️ Backend**
+Node.js
+
+**🗄️ Database**
+MySQL
+
+**🧰 Tools**
+Git • GitHub • VS Code • REST APIs
+
+---
+
+## 🚀 Projects
+
+---
+
+## 📫 Connect With Me
+
+* 🐙 GitHub: https://github.com/MuhammadHasnain3027
+* 💼 LinkedIn: https://www.linkedin.com/in/muhammadhasnain3027/
+
+---
+
+## ⚡ Fun Fact
+
+> I believe consistency beats talent — I code every single day to improve.
+
+---
